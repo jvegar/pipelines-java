@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jvegar0385/MyFirstProject_01/_apis/build/status/jvegar.pipelines-java?branchName=main)](https://dev.azure.com/jvegar0385/MyFirstProject_01/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
